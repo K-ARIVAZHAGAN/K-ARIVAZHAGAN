@@ -112,7 +112,7 @@ I'm passionate about building software that solves real-world problems using **A
 
 ## 📊 Activity Graph
 
-[![ARIV's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![ARIV's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K-ARIVAZHAGAN\&theme=tokyo-night)](https://github.com/K-ARIVAZHAGAN)
 
 ---
 
@@ -125,7 +125,6 @@ I'm passionate about building software that solves real-world problems using **A
 ## 🤝 Let's Connect
 
 * LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* Portfolio: https://YOUR_WEBSITE
 * Email: [your@email.com](mailto:your@email.com)
 
 ---
