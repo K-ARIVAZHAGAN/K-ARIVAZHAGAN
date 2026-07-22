@@ -125,7 +125,7 @@ I'm passionate about building software that solves real-world problems using **A
 ## 🤝 Let's Connect
 
 * LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* Email: [your@email.com](mailto:your@email.com)
+* Email: [arivazhagan24012004@gmail.com](mailto:arivazhagan24012004@gmail.com)
 
 ---
 
