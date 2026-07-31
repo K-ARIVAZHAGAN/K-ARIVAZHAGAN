@@ -104,7 +104,7 @@ I'm passionate about building software that solves real-world problems using **A
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=K-ARIVAZHAGAN&theme=tokyonight"/>
 
 </p>
 
@@ -124,7 +124,7 @@ I'm passionate about building software that solves real-world problems using **A
 
 ## 🤝 Let's Connect
 
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* LinkedIn: https://linkedin.com/in/k-arivazhagan/
 * Email: [arivazhagan24012004@gmail.com](mailto:arivazhagan24012004@gmail.com)
 
 ---
