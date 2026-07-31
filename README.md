@@ -86,20 +86,6 @@ I'm passionate about building software that solves real-world problems using **A
 * Cloud Deployment
 * System Design
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-ARIVAZHAGAN&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-ARIVAZHAGAN&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
